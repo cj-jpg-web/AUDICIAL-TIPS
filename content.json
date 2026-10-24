@@ -20,7 +20,7 @@
       "title": "Practice one layout.",
       "body": "Choose a layout your team can rebuild. Use it again with different articles and photos.",
       "practice": "Notice how the main story stays on the left and smaller stories sit beside it.",
-      "image": "assets/gma-reference.svg",
+      "image": "assets/gma-reference.svg?v=2",
       "source": "GMA News Online",
       "sourceUrl": "https://www.gmanetwork.com/news/",
       "alt": "GMA homepage showing its menu, large lead story, and smaller supporting stories."
@@ -31,7 +31,7 @@
       "title": "Make the main story bigger.",
       "body": "Give your lead story a bigger photo and headline. Keep the other stories smaller.",
       "practice": "CNN gives one story much more space than the stories beside it.",
-      "image": "assets/cnn-reference.svg",
+      "image": "assets/cnn-reference.svg?v=2",
       "source": "CNN Sports",
       "sourceUrl": "https://edition.cnn.com/sport",
       "alt": "CNN Sports page showing a large lead photo and smaller story previews."
@@ -42,7 +42,7 @@
       "title": "Keep the menu simple.",
       "body": "Use clear section names: News, Editorial, Feature, and Sports. Put the menu where readers can find it.",
       "practice": "GMA places its section names together in one row.",
-      "image": "assets/gma-reference.svg",
+      "image": "assets/gma-reference.svg?v=2",
       "source": "GMA News Online",
       "sourceUrl": "https://www.gmanetwork.com/news/",
       "alt": "GMA homepage showing its menu, large lead story, and smaller supporting stories."
@@ -61,7 +61,7 @@
       "title": "Stick to a few colors.",
       "body": "Choose one main color with dark text and a light background. Repeat those colors across the site.",
       "practice": "GMA repeats red in section labels while keeping most text dark.",
-      "image": "assets/gma-reference.svg",
+      "image": "assets/gma-reference.svg?v=2",
       "source": "GMA News Online",
       "sourceUrl": "https://www.gmanetwork.com/news/",
       "alt": "GMA homepage showing its menu, large lead story, and smaller supporting stories."
@@ -72,7 +72,7 @@
       "title": "Use photos that tell the story.",
       "body": "Pick a clear photo of the action or person in the article. Add an accurate caption and credit.",
       "practice": "The large sports photo shows the players and their expressions.",
-      "image": "assets/cnn-reference.svg",
+      "image": "assets/cnn-reference.svg?v=2",
       "source": "CNN Sports",
       "sourceUrl": "https://edition.cnn.com/sport",
       "alt": "CNN Sports page showing a large lead photo and smaller story previews."
@@ -91,7 +91,7 @@
       "title": "Show a preview, then the full story.",
       "body": "On a section page, show the photo, headline, and a short preview. Let readers click to open the article.",
       "practice": "CNN shows several linked story previews instead of full articles.",
-      "image": "assets/cnn-reference.svg",
+      "image": "assets/cnn-reference.svg?v=2",
       "source": "CNN Sports",
       "sourceUrl": "https://edition.cnn.com/sport",
       "alt": "CNN Sports page showing a large lead photo and smaller story previews."
