@@ -1,1 +1,165 @@
-{}
+{
+  "updated": "2026-10-24",
+  "announcements": [],
+  "resources": [
+    {
+      "title": "WordPress editor guide",
+      "description": "Learn blocks, patterns, pages, and posts.",
+      "url": "https://wordpress.com/support/wordpress-editor/"
+    },
+    {
+      "title": "Query Loop guide",
+      "description": "Build article lists and grids that update as you publish.",
+      "url": "https://wordpress.com/support/wordpress-editor/blocks/query-loop-block/"
+    }
+  ],
+  "tips": [
+    {
+      "id": "tip-1",
+      "category": "Design",
+      "title": "Master a layout you can rebuild",
+      "body": "Practice one main layout and two variations: a horizontal lead photo, a vertical lead photo, and a text-led arrangement. Rebuild with unfamiliar articles instead of memorizing one finished page.",
+      "practice": "Rebuild a section from a blank page, then replace the headline with one twice as long."
+    },
+    {
+      "id": "tip-2",
+      "category": "Design",
+      "title": "Create a type hierarchy",
+      "body": "Use consistent styles for section titles, headlines, subheadings, body text, and captions. Start with two font families at most. Judge readability on an actual phone, not just the desktop canvas.",
+      "practice": "Check whether a reader can distinguish a headline, byline, and caption instantly."
+    },
+    {
+      "id": "tip-3",
+      "category": "Design",
+      "title": "Give colors a job",
+      "body": "Choose a readable background and text combination, plus one primary accent. Use the accent for navigation and section labels. Keep article text high contrast.",
+      "practice": "Review the page without color: is the hierarchy still clear?"
+    },
+    {
+      "id": "tip-4",
+      "category": "Design",
+      "title": "Use spacing deliberately",
+      "body": "Align story edges and keep consistent gaps between cards and sections. Give the lead story more space. Empty space helps separate ideas.",
+      "practice": "Compare all card padding, image ratios, and section gaps."
+    },
+    {
+      "id": "tip-5",
+      "category": "Design",
+      "title": "Let the strongest story lead",
+      "body": "Select a lead for each section. Give it more visual weight through headline size, placement, and image size. Supporting articles should remain easy to scan.",
+      "practice": "Ask a teammate which story they notice first."
+    },
+    {
+      "id": "tip-6",
+      "category": "Writing",
+      "title": "Prepare frameworks, then follow the facts",
+      "body": "Practice summary, descriptive, anecdotal, and contrast leads. Choose the approach that fits your evidence. Do not force a prewritten argument onto the contest material.",
+      "practice": "Write two different leads using the same verified reporting."
+    },
+    {
+      "id": "tip-7",
+      "category": "Writing",
+      "title": "Find an angle with evidence",
+      "body": "Identify a specific change, conflict, consequence, or human experience. Before drafting, state the angle in one sentence and list the facts and quotes that support it.",
+      "practice": "Pitch the story in one sentence without using a vague topic label."
+    },
+    {
+      "id": "tip-8",
+      "category": "Writing",
+      "title": "Distinguish editorial voices",
+      "body": "News prioritizes verified reporting. An editorial presents the publication’s argued position. A column presents a named writer’s perspective. Features build meaning through reporting and detail.",
+      "practice": "Check that opinion is clearly labeled and factual claims are supported."
+    },
+    {
+      "id": "tip-9",
+      "category": "Writing",
+      "title": "Report beyond the final score",
+      "body": "Collect names, scores, decisive plays, turning points, relevant statistics, and quotes. Sports features explore people; sports editorials argue positions with evidence.",
+      "practice": "Prepare a game-report checklist before the practice event."
+    },
+    {
+      "id": "tip-10",
+      "category": "Visuals",
+      "title": "Choose photos that report",
+      "body": "Select informative moments and strong expressions. Crop with purpose without changing the meaning. Add accurate captions and credits; verify names and visible details.",
+      "practice": "Pick one lead photo and explain what readers learn from it."
+    },
+    {
+      "id": "tip-11",
+      "category": "Visuals",
+      "title": "Make infographics useful",
+      "body": "Use charts for comparisons, timelines for event order, and fact boxes for key figures. Label units and sources. Keep scales honest and decorative elements secondary.",
+      "practice": "Explain why the graphic is easier to understand than a paragraph."
+    },
+    {
+      "id": "tip-12",
+      "category": "Visuals",
+      "title": "Design the story preview",
+      "body": "Use a relevant photo, clear headline, short excerpt, and obvious link to the full story. Avoid repeating the entire article in the section grid.",
+      "practice": "Open every headline and Read more link on mobile."
+    },
+    {
+      "id": "tip-13",
+      "category": "Teamwork",
+      "title": "Everyone learns basic layout",
+      "body": "Each member should know how to add an article, apply headings, insert photos and captions, assign categories, and preview. One person oversees visual consistency, but does not do every task.",
+      "practice": "Swap roles during a practice session."
+    },
+    {
+      "id": "tip-14",
+      "category": "Teamwork",
+      "title": "Assign clear ownership",
+      "body": "Give each article or page an owner. Agree on filenames, handoffs, and editing responsibilities. Coordinate before two people edit the same page.",
+      "practice": "Run one simulation with an agreed handoff sequence."
+    },
+    {
+      "id": "tip-15",
+      "category": "Teamwork",
+      "title": "Set internal deadlines",
+      "body": "Work backward from submission. Set checkpoints for drafts, edited copy, photos, layout, and final review. Leave a real buffer to test access and submit the link.",
+      "practice": "Record where the team loses time during a full timed simulation."
+    },
+    {
+      "id": "tip-16",
+      "category": "WordPress",
+      "title": "Build sections with categories",
+      "body": "Organize articles under News, Editorial, Feature, and Sports. Put the sections in the navigation. Individual stories can open on their own pages. Confirm the required structure with organizers.",
+      "practice": "Publish one sample article per category and test the menu."
+    },
+    {
+      "id": "tip-17",
+      "category": "WordPress",
+      "title": "Use Query Loop for repeated cards",
+      "body": "Design an article card once, then use Query Loop to show different posts. Filter by category to populate a section automatically. The layout repeats while the content changes.",
+      "practice": "Publish another Sports post and check whether it appears in the Sports grid."
+    },
+    {
+      "id": "tip-18",
+      "category": "WordPress",
+      "title": "Practice with your actual setup",
+      "body": "Use the same free plan, theme, and native blocks during training. WordPress.com Free does not support installing additional plugins. Confirm contest-specific tool permissions with organizers.",
+      "practice": "Rebuild without any paid blocks, plugin dependencies, or imported assets."
+    },
+    {
+      "id": "tip-19",
+      "category": "Final checks",
+      "title": "Read on a phone",
+      "body": "Check headline wrapping, body size, image cropping, menu behavior, and horizontal overflow. Read a full article instead of only looking at the homepage.",
+      "practice": "Test a narrow screen and a desktop screen."
+    },
+    {
+      "id": "tip-20",
+      "category": "Final checks",
+      "title": "Verify before you submit",
+      "body": "Check facts, spelling, names, scores, captions, categories, links, and public access. Remove identifying information as required by contest instructions.",
+      "practice": "Have a teammate open the published URL without signing in."
+    },
+    {
+      "id": "tip-21",
+      "category": "Final checks",
+      "title": "Train for the contest conditions",
+      "body": "The supplied guidelines specify five hours for production and submission, cleared laptops, and no identifying marks in the output. They do not explicitly settle plugin permissions, free-plan use, or a four-webpage limit. Confirm regional instructions.",
+      "practice": "Practice rebuilding from a blank start rather than relying on a saved competition template."
+    }
+  ]
+}
