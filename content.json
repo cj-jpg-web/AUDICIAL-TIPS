@@ -15,102 +15,25 @@
   ],
   "tips": [
     {
-      "id": "tip-1",
-      "category": "Design",
-      "title": "Practice one layout.",
-      "body": "Choose a layout your team can rebuild. Use it again with different articles and photos.",
-      "practice": "Notice how the main story stays on the left and smaller stories sit beside it.",
-      "image": "assets/gma-reference.svg?v=2",
-      "source": "GMA News Online",
-      "sourceUrl": "https://www.gmanetwork.com/news/",
-      "alt": "GMA homepage showing its menu, large lead story, and smaller supporting stories."
+      "id": "coach-1",
+      "category": "Practice",
+      "title": "Rebuild from a blank start.",
+      "body": "Use a different topic each practice. Keep your chosen design, but change the stories and photos.",
+      "practice": "Give the team a long headline and a vertical photo. Adapt the layout without starting over."
     },
     {
-      "id": "tip-2",
-      "category": "Design",
-      "title": "Make the main story bigger.",
-      "body": "Give your lead story a bigger photo and headline. Keep the other stories smaller.",
-      "practice": "CNN gives one story much more space than the stories beside it.",
-      "image": "assets/cnn-reference.svg?v=2",
-      "source": "CNN Sports",
-      "sourceUrl": "https://edition.cnn.com/sport",
-      "alt": "CNN Sports page showing a large lead photo and smaller story previews."
+      "id": "coach-2",
+      "category": "Reporting",
+      "title": "Collect the details you will need.",
+      "body": "For sports, record names, scores, turning points, and quotes. Check them before publishing.",
+      "practice": "Before writing, list which facts are verified and which still need checking."
     },
     {
-      "id": "tip-3",
-      "category": "Design",
-      "title": "Keep the menu simple.",
-      "body": "Use clear section names: News, Editorial, Feature, and Sports. Put the menu where readers can find it.",
-      "practice": "GMA places its section names together in one row.",
-      "image": "assets/gma-reference.svg?v=2",
-      "source": "GMA News Online",
-      "sourceUrl": "https://www.gmanetwork.com/news/",
-      "alt": "GMA homepage showing its menu, large lead story, and smaller supporting stories."
-    },
-    {
-      "id": "tip-4",
-      "category": "Design",
-      "title": "Choose fonts and sizes early.",
-      "body": "Start with two fonts. Make headlines large, article text comfortable to read, and captions smaller.",
-      "practice": "You can tell the headline, body, and caption apart without reading them.",
-      "example": "type"
-    },
-    {
-      "id": "tip-5",
-      "category": "Design",
-      "title": "Stick to a few colors.",
-      "body": "Choose one main color with dark text and a light background. Repeat those colors across the site.",
-      "practice": "GMA repeats red in section labels while keeping most text dark.",
-      "image": "assets/gma-reference.svg?v=2",
-      "source": "GMA News Online",
-      "sourceUrl": "https://www.gmanetwork.com/news/",
-      "alt": "GMA homepage showing its menu, large lead story, and smaller supporting stories."
-    },
-    {
-      "id": "tip-6",
-      "category": "Visuals",
-      "title": "Use photos that tell the story.",
-      "body": "Pick a clear photo of the action or person in the article. Add an accurate caption and credit.",
-      "practice": "The large sports photo shows the players and their expressions.",
-      "image": "assets/cnn-reference.svg?v=2",
-      "source": "CNN Sports",
-      "sourceUrl": "https://edition.cnn.com/sport",
-      "alt": "CNN Sports page showing a large lead photo and smaller story previews."
-    },
-    {
-      "id": "tip-7",
-      "category": "Visuals",
-      "title": "Turn numbers into a simple graphic.",
-      "body": "Use a bar chart for a comparison. Add labels and say where the numbers came from.",
-      "practice": "The longer bar shows the higher score. Both bars use the same scale.",
-      "example": "chart"
-    },
-    {
-      "id": "tip-8",
-      "category": "WordPress",
-      "title": "Show a preview, then the full story.",
-      "body": "On a section page, show the photo, headline, and a short preview. Let readers click to open the article.",
-      "practice": "CNN shows several linked story previews instead of full articles.",
-      "image": "assets/cnn-reference.svg?v=2",
-      "source": "CNN Sports",
-      "sourceUrl": "https://edition.cnn.com/sport",
-      "alt": "CNN Sports page showing a large lead photo and smaller story previews."
-    },
-    {
-      "id": "tip-9",
+      "id": "coach-3",
       "category": "Teamwork",
-      "title": "Everyone should know basic layout.",
-      "body": "Teach every member to add text, photos, and captions. The layout artist should not do everything alone.",
-      "practice": "Each person handles a small part. One person checks the final design.",
-      "example": "team"
-    },
-    {
-      "id": "tip-10",
-      "category": "Writing",
-      "title": "Prepare angles before practice.",
-      "body": "Practice different ways to tell a story. During the contest, choose the angle your facts and interviews support.",
-      "practice": "The same event can lead to news, a feature, or an editorial.",
-      "example": "angle"
+      "title": "Leave time to test.",
+      "body": "Set a deadline for finished drafts before the final submission time. Save time for links, spelling, and access checks.",
+      "practice": "Have a teammate open the published site without signing in."
     }
   ]
 }
